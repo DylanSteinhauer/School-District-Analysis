@@ -20,8 +20,8 @@ After the initial analysis, Thomas High School had the second highest passing ra
 After their passing rate dropped to 65%, they became the 7th highest passing rate in the district out of 15 schools.
 ### Math and Reading Scores by Grade
 ![Math_Scores_by_Grade](https://user-images.githubusercontent.com/87148177/132141494-cfe6b447-742b-4ffe-a659-19a66223bba5.png)
-![Reading_Scores_by_Grade](https://user-images.githubusercontent.com/87148177/132141497-089e870c-dd70-4f93-9885-e4ce74c38f5d.png)
-\When looking at the math and reading scores by grade, the data is unaffected because the 9th grade scores from Thomas High School are displayed as NANs.
+![Reading_Scores_by_Grade](https://user-images.githubusercontent.com/87148177/132141497-089e870c-dd70-4f93-9885-e4ce74c38f5d.png)\
+When looking at the math and reading scores by grade, the data is unaffected because the 9th grade scores from Thomas High School are displayed as NANs.
 ### Scores by School Spending
 ![Spending_Summary_1](https://user-images.githubusercontent.com/87148177/132141687-09c89d22-1c22-40a4-9750-b76bae9dd86c.png)
 ![Spending_Summary_Refactored](https://user-images.githubusercontent.com/87148177/132141692-9c6a9594-9c53-4c2e-a66a-186d986cd2a9.png)\
