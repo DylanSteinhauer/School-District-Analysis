@@ -33,7 +33,7 @@ According to the summary, there was a 6% decrease in percentage passing math, a 
 Medium sized schools had their passing percentage changed by 6%, dropping from 91% to 85%. The other two school sizes were unaffected.
 Similarly, the passing reading and passing math percentages both dropped by 6% for medium schools.
 ### Scores by School Type
-![School_Type_1](https://user-images.githubusercontent.com/87148177/132141924-d597d58e-a4f2-4cb5-b3a6-5e4a3fdd8b6a.png)
+![School_Type_1](https://user-images.githubusercontent.com/87148177/132142223-9eb0696b-5ea7-4187-8173-95f898f3aa92.png)
 ![School_Type_Refactored](https://user-images.githubusercontent.com/87148177/132141925-4f3d7231-fe2c-4f7b-8d9a-31e7c2deae81.png)
 The overall charter passing percentage dropped from 90% to 87% after the analysis was performed again.
 The passing reading and math percentage for charter schools both dropped by 4 percentage points.
